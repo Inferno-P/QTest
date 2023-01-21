@@ -1,0 +1,8 @@
+Variable,Specification,Description,Unit,ForecastType
+VIX,"US,VIX,,,(eop), Quarterly end of period equity index volatility of the US",Equity Index Volatility,100,absolute
+NASDAQ,"US,CCMP,,,(eop), the NASDAQ Composite Index. It's a broad-based capitalization-weighted index of stocks in all three NASDAQ tiers: Global Select, Global Market and Capital Market. The index was developed with a base level of 100 as of February 5, 1971",Equity Index,1,relative
+SP500,"US,SP50,,,(eop), Stock Price Index: Standard & Poor's 500 Composite",Equity Index,1,relative
+LIBOR3M,"US,,,3M,(eop),",Libor Rate,100,absolute
+CPI,"US,,,,(avg),",Consumer Price Index,1,relative
+HPI,"US,,,,(avg), the FHFA House Price Index: Purchase Only, United States. This is seasonally adjusted. Level equal to 100 in 1991Q1",House Price Index,1,relative
+CDS5Y,"US,,,5Y,(eop),",Sovereign CDS Spreads,10000,absolute
